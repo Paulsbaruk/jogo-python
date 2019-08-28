@@ -1,5 +1,5 @@
 print("*******************************")
-print("Welcome to the game of guessing")
+print("*******hangman game************")
 print("*******************************")
 
 print("Fim do jogo")
